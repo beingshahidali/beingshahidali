@@ -14,7 +14,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=beingshahidali&show_icons=true&locale=en" alt="beingshahidali" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beingshahidali&" alt="beingshahidali" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=beingshahidali)](https://git.io/streak-stats)
 
