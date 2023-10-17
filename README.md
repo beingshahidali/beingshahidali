@@ -26,13 +26,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pranshu-jain-0742b1209" /></a>
-
 <a href="https://medium.com/@shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@shahidali_sa08"  /></a>
-
 <a href="https://www.hackerrank.com/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="shahidali_sa08"  /></a>
 <a href="https://www.leetcode.com/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="shahidali_sa08"  /></a>       
 <a href="https://auth.geeksforgeeks.org/user/shahidali_sa08/profile" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="shahidali_sa08/profile"  /></a>
-<a href="https://twitter.com/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/pranshujain0111?logo=twitter&style=for-the-badge" alt="pranshujain0111" /></a>
+<a href="https://twitter.com/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/shahidali?logo=twitter&style=for-the-badge" alt="shahidali" /></a>
 </p>
 
 ![Metrics](https://metrics.lecoq.io/beingshahidali?template=classic&achievements=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=false&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata&config.twemoji=true)
