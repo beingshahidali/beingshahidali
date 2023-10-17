@@ -10,7 +10,6 @@
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" /> </p>
          
 
-- 🌱 I’m currently exploring the world of **Web3**
 
 - 👨‍💻 All of my projects are available at [Here](https://shahidali.netlify.app/)
 
@@ -33,7 +32,6 @@
 <a href="https://twitter.com/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/shahidali?logo=twitter&style=for-the-badge" alt="shahidali" /></a>
 </p>
 
-![Metrics](https://metrics.lecoq.io/beingshahidali?template=classic&achievements=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=false&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata&config.twemoji=true)
 
 <h3 align="left">💻 Languages and Tools :</h3>
 
@@ -54,8 +52,7 @@
 <h4>Tools & Services </h4>
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
@@ -69,6 +66,9 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beingshahidali&show_icons=true&locale=en&layout=compact" alt="beingshahidali" /></p>
+
+![Metrics](https://metrics.lecoq.io/beingshahidali?template=classic&achievements=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=false&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata&config.twemoji=true)
+
 
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beingshahidali&theme=github_dark" />
