@@ -4,10 +4,6 @@
          width="45" /> , I'm Shahid Ali</h1>
 <h3 align="center">Fix the Cause ,  Not the Symptom</h3>
 
-
-
-
-
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" /> </p>
          
 
