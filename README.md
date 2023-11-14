@@ -21,9 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pranshu-jain-0742b1209" /></a>
-<a href="https://medium.com/@shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@shahidali_sa08"  /></a>
-<a href="https://www.hackerrank.com/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="shahidali_sa08"  /></a>
+<a href="https://linkedin.com/in/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="beingshahidali" /></a>
+<a href="https://www.hackerrank.com/profile/beingshahidali" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="shahidali_sa08"  /></a>
 <a href="https://www.leetcode.com/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="shahidali_sa08"  /></a>       
 <a href="https://auth.geeksforgeeks.org/user/shahidali_sa08/profile" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="shahidali_sa08/profile"  /></a>
 <a href="https://twitter.com/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/shahidali?logo=twitter&style=for-the-badge" alt="shahidali" /></a>
