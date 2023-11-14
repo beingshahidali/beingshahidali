@@ -24,9 +24,7 @@
 <a href="https://linkedin.com/in/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="beingshahidali" /></a>
 <a href="https://www.hackerrank.com/profile/beingshahidali" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="shahidali_sa08"  /></a>
 <a href="https://www.leetcode.com/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="shahidali_sa08"  /></a>       
-<a href="https://auth.geeksforgeeks.org/user/shahidali_sa08/profile" target="_blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="shahidali_sa08/profile"  /></a>
-<a href="https://twitter.com/shahidali_sa08" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/shahidali?logo=twitter&style=for-the-badge" alt="shahidali" /></a>
-</p>
+
 
 
 <h3 align="left">💻 Languages and Tools :</h3>
@@ -49,7 +47,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
 <h4> Databases </h4>
 
